@@ -2,7 +2,7 @@
 
 
 <h1>Creating Resource Group, Storage Account, and Container in Azure</h1>
-In this tutorial, we will create a Resource Group in Microsoft Azure. Within the Resource Group, we will create a Storage Account, followed by a Container. We will then finish the tutorial by uploading a text file inside the container and then delete the text file.
+In this lab, we will create a Resource Group in Microsoft Azure. Within the Resource Group, we will create a Storage Account, followed by a Container. We will then finish the tutorial by uploading a text file inside the container and then delete the text file.
 
 <h2>Environments and Technologies Used</h2>
 
