@@ -46,7 +46,7 @@ Click the "create" tab as shown above.
 <img src="https://i.imgur.com/tTsR6s7.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Select the box labeled (1) to choose which subscription you want your Resource Group to go into. Select the box labeled (2) and name your Resource Group "RG-LAB-01. The box labeled (3), let's you select the region you want your Resource Group to be created, we will go ahead and select "(US) West US 3"
+Select the box to choose which subscription you want your Resource Group to go into. Select box (2) and name your Resource Group "RG-LAB-01. Box (3) let's you select the region you want your Resource Group to be created. We will go ahead and select "(US) West US 3"
 
 NOTE: The region selection specifies where the metadata about the resources is stored.
 
@@ -60,13 +60,13 @@ Click the "Next: Tags >" tab
 <img src="https://i.imgur.com/HD0lipX.png" height="80%" width="80%" alt="img"/>
 </p>
 
-The "Tags" section helps us organize and manage our Azure resources. In the box labeled (1), we will assign three individuals (Brian, James, and Michael) to the values (Finance, Accounting, and HR), respectively. Click the "Next : Review + Create >" tab labeled (2) to review the resource we are about to create.
+The "Tags" section helps us organize and manage our Azure resources. We will assign three individuals (Brian, James, and Michael) to the values (Finance, Accounting, and HR), respectively. Click "Next : Review + Create >".
 
 <p align="center">
 <img src="https://i.imgur.com/Kkrg0FZ.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Our Resource Group has been validated, as shown in the box labeled (1). We will now create our Resource Group by clicking the tab "Create" in box (2).
+Our Resource Group has been validated, as shown in the image above. We will now create our Resource Group by clicking the tab "Create".
 
 <p align="center">
 <img src="https://i.imgur.com/mu2WXEv.png" height="80%" width="80%" alt="img"/>
@@ -90,7 +90,7 @@ We will now create our Storage Account by clicking "Create storage account".
 <img src="https://i.imgur.com/8pqzlM3.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Select your Microsoft Azure Subscription as shown in box (1), select the Resource Group "RG-LAB-01" we created earlier as shown in box (2). In box (3), name your Storage Account.
+Select your Microsoft Azure Subscription as shown above, select the Resource Group "RG-LAB-01" we created earlier. Go ahead and name your Storage Account.
 
 NOTE: Your Storage Account must be unique and contain only lower-case and numbers.
 
@@ -98,7 +98,7 @@ Box (4) is where we will select our region; select "(US) West US 3"
 
 NOTE: Your region must be consistent with your Resource Group region.
 
-Leave "Redundancy" box (5) as default. Click the "Review" tab labeled box (6).
+Leave "Redundancy" as default. Click the "Review" tab.
 
 <p align="center">
 <img src="https://i.imgur.com/BzFzoKG.png" height="80%" width="80%" alt="img"/>
@@ -116,17 +116,17 @@ Leave "Redundancy" box (5) as default. Click the "Review" tab labeled box (6).
 <img src="https://i.imgur.com/ohwuRdF.png" height="80%" width="80%" alt="img"/>
 </p>
 
-To create the Container, click the "Container" tab labeled box (1)
+To create the Container, click the "Container" tab.
 
 NOTE: Container is a virtual folder that can be used to store objects, such as images, videos, and documents
 
-Now, click "Container" labeled box (2), choose a name for your container in box (3), and leave box (4) as default. Click the "Create" tab labeled box (5).
+Now, click "Container", choose a name for your container, and leave box (4) as default. Click the "Create".
 
 <p align="center">
 <img src="https://i.imgur.com/zrjcuCn.png" height="80%" width="80%" alt="img"/>
 </p>
 
-You will get a notification as shown in box (1) above, that your Storage Container has been created. You will also see the container we just created in the list of containers available, as shown in box (2)
+You will get a notification as shown the image above, that your Storage Container has been created. You will also see the container we just created in the list of containers available.
 
 <p align="center">
 <img src="https://i.imgur.com/xMxS1WS.png" height="80%" width="80%" alt="img"/>
@@ -156,19 +156,19 @@ Click the Container we created to open it
 <img src="https://i.imgur.com/B0CVPu3.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Click "Upload" labeled box (1), and click box (2) to select the text file we just created "Hello World.txt". Click "Upload" labeled box (3) to upload the text file
+Click "Upload", and click box (2) to select the text file we just created "Hello World.txt". Click "Upload" to upload the text file
 
 <p align="center">
 <img src="https://i.imgur.com/xVSG2n1.png" height="80%" width="80%" alt="img"/>
 </p>
 
-The "Successfully uploaded blob(s)" notification labeled box (1) indicates that the text file was uploaded successfully. The box labeled (2), shows the uploaded text file.
+The "Successfully uploaded blob(s)" notification indicates that the text file was uploaded successfully. You can see the uploaded text file in the image above.
 
 <p align="center">
 <img src="https://i.imgur.com/n03oVww.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Select the text file as shown in box (1), and click the three dots (...) labeled box (2) at the far right of the text file
+Select the text file, and click the three dots (...) at the far right of the text file
 
 <p align="center">
 <img src="https://i.imgur.com/TUq9FSX.png" height="80%" width="80%" alt="img"/>
@@ -180,7 +180,7 @@ After clicking the three dots (...), a small window will appear. click "View/edi
 <img src="https://i.imgur.com/91FZmno.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Let's edit the text file inside the "Container" by typing "My edit", as shown in box (1). Click the "Save" tab to save the text file. To verify if the edits we made were successful, we will click the "Download" tab labeled box (3) to download the edited text file to our local computer.
+Let's edit the text file inside the "Container" by typing "My edit", as shown above. Click the "Save" tab to save the text file. To verify if the edits we made were successful, we will click the "Download" tab to download the edited text file to our local computer.
 
 <p align="center">
 <img src="https://i.imgur.com/dWUL90d.png" height="80%" width="80%" alt="img"/>
@@ -192,13 +192,13 @@ As shown above, the edits we made to the text file were successful.
 <img src="https://i.imgur.com/HZYswsq.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Let's go ahead and delete the Resource Group we created to avoid getting charged. Click the search bar and search for "Resource group". From the list of options shown, click "Resource groups" labeled box (2).
+Let's go ahead and delete the Resource Group we created to avoid getting charged. Click the search bar and search for "Resource group". From the list of options shown, click "Resource groups".
 
 <p align="center">
 <img src="https://i.imgur.com/8WTxgtU.png" height="80%" width="80%" alt="img"/>
 </p>
 
-Click the Resource Group we created "RG-LAB-01". Click the "Delete resource group" tab as shown in box (1), enter your Resource Group name "RG-LAB-01" in box (2) to confirm deletion. Then, click the "Delete" tab to delete the Resource group.
+Click the Resource Group we created "RG-LAB-01". Click the "Delete resource group" tab, enter your Resource Group name "RG-LAB-01" to confirm deletion. Then, click the "Delete" tab to delete the Resource group.
 
 <p align="center">
 <img src="https://i.imgur.com/dRw8YI5.png" height="80%" width="80%" alt="img"/>
