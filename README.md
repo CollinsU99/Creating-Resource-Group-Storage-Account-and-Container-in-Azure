@@ -14,7 +14,7 @@ In this lab, we will create a Resource Group in Microsoft Azure. Within the Reso
 
 <h2>Operating Systems Used </h2>
 
-Windows 10 (21H2) 
+Windows 10 Pro (22H2) 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
